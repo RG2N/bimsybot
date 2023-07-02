@@ -9,6 +9,8 @@
   "author": "RG2N",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.11.0"
+    "discord.js": "^14.11.0",
+    "gamedig": "^4.0.6",
+    "moment": "^2.29.4"
   }
 }
