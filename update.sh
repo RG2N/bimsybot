@@ -1,3 +1,6 @@
+rm -rf main.zip
+rm -rf bimsybot-main
+rmdir -rf bimsybot-main
 sudo apt -y update
 sudo apt -y upgrade
 sudo apt -y install nodejs
