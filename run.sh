@@ -1,4 +1,4 @@
 npm install
 sudo bash ./update.sh
-sudo apt-get -y install screen
+sudo apt -y install screen
 screen node .
